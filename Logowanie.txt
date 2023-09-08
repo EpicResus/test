@@ -3,3 +3,7 @@ def logowanie():
 	print("Podaj haslo")
 	print("Zapamiętać hasło?")
 print("wykonano")
+def logowanieMicroSoft():
+	print("Podaj login")
+	print("Podaj haslo")
+	print("Zapamiętać hasło?")
